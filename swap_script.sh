@@ -1,6 +1,8 @@
 #!/bin/bash
-Num1=12
-Num2=18
+echo "Enter The First Number"
+read Num1
+echo "Enter The Second Number"
+read Num2
 echo "Before Swapping"
 echo "First Number:" $Num1
 echo "Second Number:" $Num2
