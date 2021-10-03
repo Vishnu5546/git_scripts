@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "Write a script if Number equals to 5 it will come out of the loop"
 Num=1
 while [ $Num -le 10 ];
  do
