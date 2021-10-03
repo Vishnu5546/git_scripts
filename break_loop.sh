@@ -5,7 +5,7 @@ while [ $Num -le 10 ];
  do
    if [ $Num -eq 5 ];
     then
-	echo "Successfully come out of the loo"
+	echo "Successfully come out of the loop"
 	break
    fi
    echo "Position is :" $Num
