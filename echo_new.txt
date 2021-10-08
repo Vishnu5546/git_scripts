@@ -1,4 +1,0 @@
-Hello World
-Welcome 
-Good Bye
-Thank You
