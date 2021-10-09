@@ -12,4 +12,4 @@ Num2=$temp
 echo "After Swapping"
 echo "First Number:" $Num1
 echo "Second Number:" $Num2
-echo "Swapping between two numbers done successfully"
+echo "Swapping between two numbers has been done successfully"
